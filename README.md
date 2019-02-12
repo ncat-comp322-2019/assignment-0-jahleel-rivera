@@ -1,12 +1,7 @@
-# Assignment-0
-Assignment 0 Welcomes Students to GitHub
+# Hello World
 
-
-1. Sign-up for GitHub and Setup your account
-2. Create your own octocat (link provided on the Welcome repo)
-3. Follow my account on GitHub @scday
-4. Login to the classroom (link provided via Blackboard)
-5. Learn about GitHub and the commands via presentation provided (https://guides.github.com/activities/hello-world/)
 
 
 ![Octocat](assignment0.png)
+Hello Dr. Day,
+Hello my name is Jahleel Rivera. This is my octocat and his name is handy manny! Ihope you have a good day!
